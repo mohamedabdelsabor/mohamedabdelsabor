@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/medo_abdelsabor" target="blank"><img src="https://img.shields.io/twitter/follow/medo_abdelsabor?logo=twitter&style=for-the-badge" alt="medo_abdelsabor" /></a> </p>
 
-- 🔭 I’m currently working in [ITI alumni](for AI & Machine Learning)
+- 🔭 I’m currently working as Fullstack Developer
 
 - 🌱 I’m currently learning **NLP , Computer Vision**
 
